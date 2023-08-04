@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrennanLongstreth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning; Web development and DBMS
+- 👀 I’m interested in cyber security/malware decomposition
+- 🌱 I’m currently learning content for Comptia Security+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via [email](existance_vip@hotmail.com) or by phone (425)984-3543
 
